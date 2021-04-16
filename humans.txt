@@ -1,0 +1,24 @@
+ ____  __.       .__    .__  __  .__            _____                       .__
+|    |/ _|  _____|  |__ |__|/  |_|__|_______   /  _  \_______ ___.__._____  |  |
+|      <   /  ___/  |  \|  \   __\  \___   /  /  /_\  \_  __ <   |  |\__  \ |  |
+|    |  \  \___ \|   Y  \  ||  | |  |/    /  /    |    \  | \/\___  | / __ \|  |__
+|____|__ \/____  >___|  /__||__| |__/_____ \ \____|__  /__|   / ____|(____  /____/
+        \/     \/     \/                  \/         \/       \/          \/
+
+/* TEAM */
+
+  Web admin: Kshitiz Aryal
+  Twitter: @KshitizAryal
+  Location: Kathmandu, Nepal
+
+  Web designer: Milan Aryal
+  Twitter: @MilanAryal
+  Location: Kathmandu, Nepal
+
+/* SITE */
+
+  Last updated: 2021/04/16
+  Language: English
+  Standards: HTML5, CSS3
+  Components: Jekyll v4.2.0
+  IDE: Visual Studio Code
